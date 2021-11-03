@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.CourseSummaryDtoTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:30" hostname="L104D005" time="0.01">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.003"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.001"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullSubjectDescription" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.001"/>
+  <testcase name="testConstructor_Course" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullLevelDescription" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.001"/>
+  <testcase name="testMapFromCoursesEntitiesTest" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_Description" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_LevelDescription" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullDescription" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.0"/>
+  <testcase name="testMapFromCourseEntityTest" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_SubjectDescription" classname="uk.ac.reigate.dto.CourseSummaryDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.RegisteredSessionServiceTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:37" hostname="L104D005" time="0.029">
+  <properties/>
+  <testcase name="testFindSession" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.015"/>
+  <testcase name="testCreateFromDto_PeriodId" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.004"/>
+  <testcase name="testUpdateFromDto_dto" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.002"/>
+  <testcase name="testSaveList" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_dtoWithNullValues" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.002"/>
+  <testcase name="testSaveNewSession" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_PeriodId" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dto" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.001"/>
+  <testcase name="testFindSessionById" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.0"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto_withNullDto" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.0"/>
+  <testcase name="testSaveSession" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_withNullDto" classname="uk.ac.reigate.services.RegisteredSessionServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

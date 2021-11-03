@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.StudentOverallAttendanceDtoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:32" hostname="L104D005" time="0.009">
+  <properties/>
+  <testcase name="testConstructor_NullStudentOverallAttendance" classname="uk.ac.reigate.dto.StudentOverallAttendanceDtoTest" time="0.006"/>
+  <testcase name="testMapFromStudentOverallAttendanceEntity" classname="uk.ac.reigate.dto.StudentOverallAttendanceDtoTest" time="0.0"/>
+  <testcase name="testConstructor_StudentOverallAttendanceDto" classname="uk.ac.reigate.dto.StudentOverallAttendanceDtoTest" time="0.0"/>
+  <testcase name="testMapFromStudentOverallAttendancesEntities" classname="uk.ac.reigate.dto.StudentOverallAttendanceDtoTest" time="0.002"/>
+  <testcase name="testConstructor_StudentOverallAttendance" classname="uk.ac.reigate.dto.StudentOverallAttendanceDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

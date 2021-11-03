@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.StatementBankDtoTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:32" hostname="L104D005" time="0.025">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.StatementBankDtoTest" time="0.008"/>
+  <testcase name="testConstructor_NullObject" classname="uk.ac.reigate.dto.StatementBankDtoTest" time="0.009"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.StatementBankDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.StatementBankDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_ILPStatementBankType" classname="uk.ac.reigate.dto.StatementBankDtoTest" time="0.001"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.StatementBankDtoTest" time="0.001"/>
+  <testcase name="testConstructor_StatementBank" classname="uk.ac.reigate.dto.StatementBankDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullStatementBankType" classname="uk.ac.reigate.dto.StatementBankDtoTest" time="0.0"/>
+  <testcase name="testMapFromStatementBanksEntities" classname="uk.ac.reigate.dto.StatementBankDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_NullILPStatementBankType" classname="uk.ac.reigate.dto.StatementBankDtoTest" time="0.0"/>
+  <testcase name="testMapFromStatementBankEntity" classname="uk.ac.reigate.dto.StatementBankDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

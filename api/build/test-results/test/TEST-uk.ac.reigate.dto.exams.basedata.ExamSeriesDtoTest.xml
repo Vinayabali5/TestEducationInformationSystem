@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.exams.basedata.ExamSeriesDtoTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.008">
+  <properties/>
+  <testcase name="testMapFromExamSeriesEntityTest" classname="uk.ac.reigate.dto.exams.basedata.ExamSeriesDtoTest" time="0.002"/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.exams.basedata.ExamSeriesDtoTest" time="0.001"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.exams.basedata.ExamSeriesDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.exams.basedata.ExamSeriesDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.exams.basedata.ExamSeriesDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_AcademicYearDesc" classname="uk.ac.reigate.dto.exams.basedata.ExamSeriesDtoTest" time="0.001"/>
+  <testcase name="testMapFromExamSeriesEntitiesTest" classname="uk.ac.reigate.dto.exams.basedata.ExamSeriesDtoTest" time="0.002"/>
+  <testcase name="testConstructor_NullAcademicYear" classname="uk.ac.reigate.dto.exams.basedata.ExamSeriesDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullAcademicYearDesc" classname="uk.ac.reigate.dto.exams.basedata.ExamSeriesDtoTest" time="0.0"/>
+  <testcase name="testConstructor_ExamSeries" classname="uk.ac.reigate.dto.exams.basedata.ExamSeriesDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

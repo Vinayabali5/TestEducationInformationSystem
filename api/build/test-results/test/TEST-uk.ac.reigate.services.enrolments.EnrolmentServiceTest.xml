@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" tests="44" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:34" hostname="L104D005" time="0.143">
+  <properties/>
+  <testcase name="testCreateFromDto_dtoWithStudentId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.064"/>
+  <testcase name="testCreateFromDto_dtoFundingModelId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.005"/>
+  <testcase name="testFindByCourse" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_withDtoWithNoId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.0"/>
+  <testcase name="testUPdateFromDto_dtoSourceOfFundingId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.005"/>
+  <testcase name="testCreateFromDto_dtoCentralMonitoringId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.003"/>
+  <testcase name="testUpdateFromDto_dtoWithAimTypeId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.005"/>
+  <testcase name="testFindByYearId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithYearId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_dto" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testSaveList" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.003"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_dtoCentralMonitoringId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.005"/>
+  <testcase name="testFindByStudentId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.004"/>
+  <testcase name="testUpdateFromDto_dtoFundingModelId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.002"/>
+  <testcase name="testCreateFromDto_dtoWithdrawalReasonId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.004"/>
+  <testcase name="testFindCurrentCourseGroup" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithAimTypeId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testFindByStudentAndYearId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.003"/>
+  <testcase name="testFindByCourseId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoCourseGroupId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_dtoWithCourseId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto_dtoWithCompletionStatusId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.005"/>
+  <testcase name="testUpdateFromDto_dtoWithdrawalReasonId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dto" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithOutcomeId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.005"/>
+  <testcase name="testUpdateFromDto_dtoWithYearId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithCourseId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithGrade" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoCourseGroupId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testFindByStudentAndYear" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testFindByCourseAndYear" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withNull" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithStudentId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testFindByCourseGroupAndYear" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithCompletionStatusId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithGrade" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto_dtoWithOutcomeId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testFindByCourseGroup" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoSourceOfFundingId" classname="uk.ac.reigate.services.enrolments.EnrolmentServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

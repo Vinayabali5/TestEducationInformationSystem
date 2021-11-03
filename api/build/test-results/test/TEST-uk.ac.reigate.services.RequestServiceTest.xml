@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.RequestServiceTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:37" hostname="L104D005" time="0.062">
+  <properties/>
+  <testcase name="testGetCourseNullDescription" classname="uk.ac.reigate.services.RequestServiceTest" time="0.02"/>
+  <testcase name="testUpdateFromDto_dto" classname="uk.ac.reigate.services.RequestServiceTest" time="0.002"/>
+  <testcase name="testSaveNewRequest" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testFindByStudent_IdAndRequestAndAcademicYear" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_academicYeard" classname="uk.ac.reigate.services.RequestServiceTest" time="0.013"/>
+  <testcase name="testFindByStudentId" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testGetCourseDescription" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testSearchByYearAndStudentId" classname="uk.ac.reigate.services.RequestServiceTest" time="0.004"/>
+  <testcase name="testFindRequestsByStudentId" classname="uk.ac.reigate.services.RequestServiceTest" time="0.002"/>
+  <testcase name="testCourseDescriptionCode" classname="uk.ac.reigate.services.RequestServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto_dto" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testSearchByYear" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testFindRequests" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testDeleteById" classname="uk.ac.reigate.services.RequestServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_academicYeard" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testSaveRequest" classname="uk.ac.reigate.services.RequestServiceTest" time="0.002"/>
+  <testcase name="testSearchByYearAndStudent" classname="uk.ac.reigate.services.RequestServiceTest" time="0.002"/>
+  <testcase name="testCourseDescription" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testFindRequest" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_studentId" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_studentId" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.RequestServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withNullDto" classname="uk.ac.reigate.services.RequestServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_withNullDto" classname="uk.ac.reigate.services.RequestServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

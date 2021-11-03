@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.exams.CourseOptionServiceTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:35" hostname="L104D005" time="0.057">
+  <properties/>
+  <testcase name="testUpdateFromDto_withDtoWithNoId" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.016"/>
+  <testcase name="testDeleteByIds" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.002"/>
+  <testcase name="testDeleteByCourseAndExamOption" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withCourseId" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.002"/>
+  <testcase name="testCreateFromDto_withNullCourseId" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.0"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_withDto" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.002"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.001"/>
+  <testcase name="testNoArgsConstructor" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.001"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.001"/>
+  <testcase name="testFindCourseOption" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.002"/>
+  <testcase name="testFindCourseExamOptions" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.019"/>
+  <testcase name="testCreateFromDto_withNullExamOptionId" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.002"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withExamOptionId" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.001"/>
+  <testcase name="testCourseExamOptions" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.004"/>
+  <testcase name="testCreateFromDto_withNullDto" classname="uk.ac.reigate.services.exams.CourseOptionServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

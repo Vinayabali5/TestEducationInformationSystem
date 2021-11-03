@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.StudentAdmissionDtoTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:32" hostname="L104D005" time="0.035">
+  <properties/>
+  <testcase name="testConstructor_Student" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.009"/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.008"/>
+  <testcase name="testConstructor_NullObject" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.001"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_InterviewerName" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.003"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullInterviewerName" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.002"/>
+  <testcase name="testMapFromStudentsEntities" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.003"/>
+  <testcase name="testMethod_Get_EthnicityShortDescription" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.001"/>
+  <testcase name="testMapFromStudentEntity" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullOfferTypeDescription" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullStatusDescription" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_RestrictedUseIndicatorDescription" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_SchoolReportStatusDescription" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullEthnicityShortDescription" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_StatusDescription" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullSchoolReportStatusDescription" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_OfferTypeDescription" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullRestrictedUseIndicatorDescription" classname="uk.ac.reigate.dto.StudentAdmissionDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

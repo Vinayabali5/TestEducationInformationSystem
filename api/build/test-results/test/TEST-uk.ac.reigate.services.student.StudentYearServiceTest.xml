@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.student.StudentYearServiceTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:38" hostname="L104D005" time="0.018">
+  <properties/>
+  <testcase name="testUpdateTutorGroupNull" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.01"/>
+  <testcase name="testFindByStudent_IdAndYearr" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.001"/>
+  <testcase name="testSaveList" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.002"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.0"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.001"/>
+  <testcase name="testFindByTutorGroupAndYear" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.0"/>
+  <testcase name="testFindByTutorGroup" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.001"/>
+  <testcase name="testUpdateStudentWarningNull" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.0"/>
+  <testcase name="testFindByStudent" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.001"/>
+  <testcase name="testFindByTutorGroupAndYearId" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.0"/>
+  <testcase name="testGetByStudentAndYear" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.student.StudentYearServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

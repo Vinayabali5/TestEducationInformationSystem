@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:35" hostname="L104D005" time="0.1">
+  <properties/>
+  <testcase name="testCreateFromDto_WithExamTypeUnitId" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.047"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <testcase name="testDeleteExamOption" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_withDto" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.0"/>
+  <testcase name="testFindExamOption" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.001"/>
+  <testcase name="testSearchByOptionEntryCode" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.001"/>
+  <testcase name="testFindByExamSeries" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.003"/>
+  <testcase name="testUpdateFromDto" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <testcase name="testCreateFromDto_withSyllabusId" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.007"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withSyllabusNullId" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <testcase name="testFindByOptionEntryCodeAndExamSeries" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.011"/>
+  <testcase name="testCreateFromDto_withSyllabusNullCode" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_withNullSyllabusCode" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_withSyllabus" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <testcase name="testFindByOptionEntryCode" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_withExamTypeCertId" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <testcase name="testCreateFromDto_WithExamTypeCertId" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.001"/>
+  <testcase name="testFindByExamSeriesAndCode" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_withSyllabusNullId" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_withExamTypeUnitId" classname="uk.ac.reigate.services.exams.basedata.ExamOptionServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

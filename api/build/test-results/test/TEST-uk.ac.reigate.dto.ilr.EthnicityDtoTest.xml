@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.ilr.EthnicityDtoTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.006">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.ilr.EthnicityDtoTest" time="0.003"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.ilr.EthnicityDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.ilr.EthnicityDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.ilr.EthnicityDtoTest" time="0.0"/>
+  <testcase name="testMapFromEthnicitysEntitiesTest" classname="uk.ac.reigate.dto.ilr.EthnicityDtoTest" time="0.001"/>
+  <testcase name="testConstructor_NullEthnicity" classname="uk.ac.reigate.dto.ilr.EthnicityDtoTest" time="0.0"/>
+  <testcase name="testConstructor_Ethnicity" classname="uk.ac.reigate.dto.ilr.EthnicityDtoTest" time="0.0"/>
+  <testcase name="testMapFromEthnicityEntityTest" classname="uk.ac.reigate.dto.ilr.EthnicityDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

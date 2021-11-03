@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.PersonServiceTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:37" hostname="L104D005" time="0.063">
+  <properties/>
+  <testcase name="testUpdateFromDto_dtoWithTitleId" classname="uk.ac.reigate.services.PersonServiceTest" time="0.03"/>
+  <testcase name="testUpdateFromDto_dtoWithGenderId" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testCreatePersonRole_ListRolesNullId" classname="uk.ac.reigate.services.PersonServiceTest" time="0.008"/>
+  <testcase name="testFindByPerson" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithGenderId" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testSaveNewPerson" classname="uk.ac.reigate.services.PersonServiceTest" time="0.0"/>
+  <testcase name="testFindPeople" classname="uk.ac.reigate.services.PersonServiceTest" time="0.002"/>
+  <testcase name="testFindPerson" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testCreatePersonRole_ListRoles" classname="uk.ac.reigate.services.PersonServiceTest" time="0.003"/>
+  <testcase name="testCreatePersonRole_NullDto" classname="uk.ac.reigate.services.PersonServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_dtoWithAddressId" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testFindByUsername" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithTitleId" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithLegalSexId" classname="uk.ac.reigate.services.PersonServiceTest" time="0.0"/>
+  <testcase name="testSavePerson" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dto" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithAddressId" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.PersonServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_dtoWithLegalSexId" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.PersonServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto_withNullDto" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testFindPersonByPage" classname="uk.ac.reigate.services.PersonServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_withNullDto" classname="uk.ac.reigate.services.PersonServiceTest" time="0.0"/>
+  <testcase name="testFindByNamePart" classname="uk.ac.reigate.services.PersonServiceTest" time="0.006"/>
+  <system-out><![CDATA[[INFO] *** PersonService.findByNamePart
+[INFO] * No records found
+[INFO] ** Return: null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

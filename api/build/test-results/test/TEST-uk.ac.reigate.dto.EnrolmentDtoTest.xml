@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.EnrolmentDtoTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:30" hostname="L104D005" time="0.121">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.069"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.003"/>
+  <testcase name="testMethod_Get_NullFundingModelDescription" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.007"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.004"/>
+  <testcase name="testConstructor_Enrolment" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.004"/>
+  <testcase name="testMethod_Get_NullSourceOfFundingCode" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_NullCourseGroupReference" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_FundingModelCode" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_AcademicYearCode" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_NullSubjectDescription" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_NullLevelDescription" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.003"/>
+  <testcase name="testMapFromEntity" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.007"/>
+  <testcase name="testMethod_Get_NullSourceOfFundingDescription" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_SourceOfFundingCode" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_FundingModelDescription" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_CourseGroupReference" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_CourseReference" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullCourseReference" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_LevelDescription" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testConstructor_NullStudent" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullFundingModelCode" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMapFromEnrolmentEntity" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullAcademicYearCode" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_SubjectDescription" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_SourceOfFundingDescription" classname="uk.ac.reigate.dto.EnrolmentDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

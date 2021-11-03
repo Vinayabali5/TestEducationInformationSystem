@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.student.StudentServiceTest" tests="32" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:38" hostname="L104D005" time="0.128">
+  <properties/>
+  <testcase name="testUpdateFromDto_NullAdmissionIdDto" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.07"/>
+  <testcase name="testUpdateFromDto_dtoRestrictedUseIndicator" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.004"/>
+  <testcase name="testFindByReferenceNoContainingIgnoreCaseAndStudentYears_Year" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithEthnicity" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.004"/>
+  <testcase name="testUpdateFromDto_dtoOfferType" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateStudentRemarkPermission" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testFindCurrentStudents" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateCollegeFundPaid" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dto" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testSaveList" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.003"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.0"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithRestrictedUseIndicator" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithRiskLevel" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoEthnicity" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.002"/>
+  <testcase name="testFindByPersonInAndStudentYears_Year" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithStudentRemarkPermission" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.005"/>
+  <testcase name="testUpdateFromDto_dtoWithNationality" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.003"/>
+  <testcase name="testUpdateFromDto_dtoInterviewer" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoSchoolReportStatus" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.004"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_AdmissionDto" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithPreviousSchool" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.004"/>
+  <testcase name="testUpdateFromDto_dtoStatus" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.004"/>
+  <testcase name="testUpdateFromDto_withNullIdDto" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_NullAdmissionDto" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testFindStudentsInYear" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithllddHealthProblem" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.003"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_withNullDto" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_dtoCollegeFundPaid" classname="uk.ac.reigate.services.student.StudentServiceTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.CourseGroupDtoTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:30" hostname="L104D005" time="0.069">
+  <properties/>
+  <testcase name="testMethod_Get_NullDepartmentDescription" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.014"/>
+  <testcase name="testMethod_Get_CourseLeaderInitials" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.024"/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.011"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.003"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.006"/>
+  <testcase name="testMethod_Get_DepartmentDescription" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.002"/>
+  <testcase name="testMapFromCourseGroupEntity" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.001"/>
+  <testcase name="testConstructor_NullCourseGroup" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_YearDescription" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullYearDescription" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullYearGroupDescription" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullCourseLeaderInitials" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.001"/>
+  <testcase name="testConstructor_CourseGroup" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.0"/>
+  <testcase name="testMapFromCourseGroupsEntities" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.004"/>
+  <testcase name="testConstructor_NullObjects" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_YearGroupDescription" classname="uk.ac.reigate.dto.CourseGroupDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.learningsupport.StudentCourseSupportTypeDtoTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.021">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.learningsupport.StudentCourseSupportTypeDtoTest" time="0.015"/>
+  <testcase name="testMapFromStudentCourseSupportTypeEntity" classname="uk.ac.reigate.dto.learningsupport.StudentCourseSupportTypeDtoTest" time="0.001"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.learningsupport.StudentCourseSupportTypeDtoTest" time="0.0"/>
+  <testcase name="testConstructor_StudentCourseSupportType" classname="uk.ac.reigate.dto.learningsupport.StudentCourseSupportTypeDtoTest" time="0.001"/>
+  <testcase name="testMapFromStudentCourseSupportTypesEntities" classname="uk.ac.reigate.dto.learningsupport.StudentCourseSupportTypeDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_SupportType" classname="uk.ac.reigate.dto.learningsupport.StudentCourseSupportTypeDtoTest" time="0.001"/>
+  <testcase name="testConstructor_NullStudentCourseSupportType" classname="uk.ac.reigate.dto.learningsupport.StudentCourseSupportTypeDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullStudent" classname="uk.ac.reigate.dto.learningsupport.StudentCourseSupportTypeDtoTest" time="0.0"/>
+  <testcase name="testConstructor" classname="uk.ac.reigate.dto.learningsupport.StudentCourseSupportTypeDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

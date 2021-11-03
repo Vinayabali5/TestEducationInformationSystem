@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:36" hostname="L104D005" time="0.059">
+  <properties/>
+  <testcase name="testFindByCourseGroupId" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.033"/>
+  <testcase name="testUpdateFromDto_dtoWithcourseGroupId" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.006"/>
+  <testcase name="testFindByStudentAndCourseGroupAndInterimReport" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.001"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.0"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.001"/>
+  <testcase name="testSaveStudentInterimReport" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.0"/>
+  <testcase name="testFindByStudentId" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithcurrentkeyAssessment1Id" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.004"/>
+  <testcase name="testUpdateFromDto_dtoWithcurrentkeyAssessment2Id" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithInterimReportId" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.003"/>
+  <testcase name="testFindByCourseId" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.001"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.001"/>
+  <testcase name="testFindByCourseGroupIdAndInterimReportId" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_dtoWithcurrentPredictedGradeId" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_dtoWithStudentId" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.001"/>
+  <testcase name="testFindByStudent" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithStaffId" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.001"/>
+  <testcase name="testFindByStudentIdAndYearId" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_withNullDto" classname="uk.ac.reigate.services.interimreport.StudentInterimReportServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

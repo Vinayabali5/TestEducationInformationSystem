@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.ilr.AimTypeDtoTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.006">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.ilr.AimTypeDtoTest" time="0.003"/>
+  <testcase name="testConstructor_NullObject" classname="uk.ac.reigate.dto.ilr.AimTypeDtoTest" time="0.0"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.ilr.AimTypeDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.ilr.AimTypeDtoTest" time="0.001"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.ilr.AimTypeDtoTest" time="0.0"/>
+  <testcase name="testConstructor_AimType" classname="uk.ac.reigate.dto.ilr.AimTypeDtoTest" time="0.0"/>
+  <testcase name="testMapFromAimTypeEntityTest" classname="uk.ac.reigate.dto.ilr.AimTypeDtoTest" time="0.0"/>
+  <testcase name="testNoArgConstructor" classname="uk.ac.reigate.dto.ilr.AimTypeDtoTest" time="0.0"/>
+  <testcase name="testConstructor_aimType" classname="uk.ac.reigate.dto.ilr.AimTypeDtoTest" time="0.0"/>
+  <testcase name="testMapFromAimTypesEntitiesTest" classname="uk.ac.reigate.dto.ilr.AimTypeDtoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

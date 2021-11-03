@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.exams.CourseComponentDtoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.013">
+  <properties/>
+  <testcase name="testConstructor_courseComponent" classname="uk.ac.reigate.dto.exams.CourseComponentDtoTest" time="0.01"/>
+  <testcase name="testMapFromCoursecomponentEntity" classname="uk.ac.reigate.dto.exams.CourseComponentDtoTest" time="0.0"/>
+  <testcase name="testconstructor_courseComponentDto" classname="uk.ac.reigate.dto.exams.CourseComponentDtoTest" time="0.001"/>
+  <testcase name="testMapFromCourseComponentsEntities" classname="uk.ac.reigate.dto.exams.CourseComponentDtoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

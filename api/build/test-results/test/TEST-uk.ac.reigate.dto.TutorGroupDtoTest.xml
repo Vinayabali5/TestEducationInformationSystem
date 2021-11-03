@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.TutorGroupDtoTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:33" hostname="L104D005" time="0.009">
+  <properties/>
+  <testcase name="testMethod_Get_NullFacultyCode" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_NullFacultyDesc" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullFaculty" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullObject" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullTutorInitials" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_SeniorTutorName" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullSeniorTutorName" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testMapFromTutorGroupEntityTest" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullSeniorTutorInitials" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_TutorName" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullTutorName" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testMapFromTutorGroupsEntitiesTest" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_RoomCode" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullRoomCode" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_FacultyCode" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_FacultyDesc" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testConstructor_TutorGroup" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_SeniorTutorInitials" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_TutorInitials" classname="uk.ac.reigate.dto.TutorGroupDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

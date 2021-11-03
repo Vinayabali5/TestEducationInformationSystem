@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.StudentLearningSupportDtoTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:32" hostname="L104D005" time="0.024">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.014"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.001"/>
+  <testcase name="testConstructor_NullStudentObject" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.003"/>
+  <testcase name="testConstructor_NullStudentLearningSupport" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.0"/>
+  <testcase name="testConstructor_StudentNullStudentLearningSupport" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.001"/>
+  <testcase name="testConstructor_StudentLearningSupportAndStudent" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.0"/>
+  <testcase name="testConstructor_Student_NullSupportType" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.0"/>
+  <testcase name="testConstructor_StudentLearningSupport" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.0"/>
+  <testcase name="testMapFromStudentLearningSupportsEntities" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_SupportTypeDescription" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullSupportTypeDescription" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.0"/>
+  <testcase name="testConstructor_Student_StudentLearningSupport" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.001"/>
+  <testcase name="testConstructor_NullStudent" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.0"/>
+  <testcase name="testMapFromStudentLearningSupportEntity" classname="uk.ac.reigate.dto.StudentLearningSupportDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.StudentYearDtoTest" tests="39" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:32" hostname="L104D005" time="0.075">
+  <properties/>
+  <testcase name="testConstructor_NullStudentYear" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.011"/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.019"/>
+  <testcase name="testConstructor_NullObject" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullPastoralDirectorName" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.005"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.006"/>
+  <testcase name="testMapFromStudentEntity" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_NullAssociatePastoralDirectorInitials" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_PastoralDirectorInitials" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullPastoralDirectorInitials" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_YearCode" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.005"/>
+  <testcase name="testMethod_Get_NullYearCode" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_NullTutorInitials" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_SeniorTutorName" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_YearApplied" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullSeniorTutorName" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_PastoralDirectorName" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_TutorGroupCode" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullTutorGroupDescription" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_StudentTypeCode" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullSeniorTutorInitials" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullYearApplied" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullStudentTypeCode" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_TutorName" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullTutorName" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.0"/>
+  <testcase name="testConstructor_student" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_PastoralMonitor" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullPastoralMonitor" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_StudentTypeDescription" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_AssociatePastoralDirectorInitials" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullStudentTypeDescription" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_AssociatePastoralDirectorName" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullTutorGroupCode" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_TutorGroupDescription" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMapFromList" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.003"/>
+  <testcase name="testMethod_Get_NullAssociatePastoralDirectorName" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_SeniorTutorInitials" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_TutorInitials" classname="uk.ac.reigate.dto.StudentYearDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

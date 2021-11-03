@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.exams.edi.StatusTypeDtoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.009">
+  <properties/>
+  <testcase name="testMapFromEntity" classname="uk.ac.reigate.dto.exams.edi.StatusTypeDtoTest" time="0.007"/>
+  <testcase name="testMapFromList" classname="uk.ac.reigate.dto.exams.edi.StatusTypeDtoTest" time="0.002"/>
+  <testcase name="testConstructor" classname="uk.ac.reigate.dto.exams.edi.StatusTypeDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

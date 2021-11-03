@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.LetterDtoTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.022">
+  <properties/>
+  <testcase name="testMethod_Get_LetterType" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.007"/>
+  <testcase name="testMethod_Get_Null_CorrespondenceType" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.001"/>
+  <testcase name="testConstructor_NullObject" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.002"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.002"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_Null_PendingName" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NonEntryWarningDescription" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_CorrespondenceType" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_PendingName" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_AcademicYearCode" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.0"/>
+  <testcase name="testConstructor_Letter" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.001"/>
+  <testcase name="testMapFromLetterEntity" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_Null_NonEntryWarningDescription" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.0"/>
+  <testcase name="testMapFromLettersEntities" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_Null_LetterType" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullStudent" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullAcademicYearCode" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.0"/>
+  <testcase name="testConstructor_Null_Objects" classname="uk.ac.reigate.dto.LetterDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

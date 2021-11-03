@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.CourseDtoTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:30" hostname="L104D005" time="0.052">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.028"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.002"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.001"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullExamBoardDescription" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullValidFromDescription" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullSubjectDescription" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullLevelDescription" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_ValidToDescription" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_ValidFromCode" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.001"/>
+  <testcase name="testMapFromCoursesEntitiesTest" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.004"/>
+  <testcase name="testMethod_Get_ExamBoardDescription" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_ValidToCode" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_Description" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_ValidFromDescription" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_NullValidToDescription" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_LevelDescription" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullValidToCode" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullDescription" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullValidFromCode" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.001"/>
+  <testcase name="testMapFromCourseEntityTest" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_SubjectDescription" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullCourse" classname="uk.ac.reigate.dto.CourseDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

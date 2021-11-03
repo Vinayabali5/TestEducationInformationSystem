@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.NoteServiceTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:37" hostname="L104D005" time="0.04">
+  <properties/>
+  <testcase name="testUpdateFromDto_TypeId" classname="uk.ac.reigate.services.NoteServiceTest" time="0.021"/>
+  <testcase name="testUpdateFromDto_dto" classname="uk.ac.reigate.services.NoteServiceTest" time="0.002"/>
+  <testcase name="testSaveList" classname="uk.ac.reigate.services.NoteServiceTest" time="0.002"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.NoteServiceTest" time="0.002"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.NoteServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withPersonId" classname="uk.ac.reigate.services.NoteServiceTest" time="0.002"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.NoteServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_PersonId" classname="uk.ac.reigate.services.NoteServiceTest" time="0.002"/>
+  <testcase name="testCreateFromDto_dto" classname="uk.ac.reigate.services.NoteServiceTest" time="0.001"/>
+  <testcase name="testGetNotesByPersonId" classname="uk.ac.reigate.services.NoteServiceTest" time="0.001"/>
+  <testcase name="testDeleteById" classname="uk.ac.reigate.services.NoteServiceTest" time="0.002"/>
+  <testcase name="testCreateFromDto_withNoteId" classname="uk.ac.reigate.services.NoteServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.NoteServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.NoteServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withNullDto" classname="uk.ac.reigate.services.NoteServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_withNullDto" classname="uk.ac.reigate.services.NoteServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

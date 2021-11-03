@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:35" hostname="L104D005" time="0.044">
+  <properties/>
+  <testcase name="testUpdateFromDto_withExamBoardId" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.023"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_withNoId" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.0"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withAcademicYearId" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.002"/>
+  <testcase name="testCreatefromDto_withhNullDto" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withExamBoardId" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.002"/>
+  <testcase name="testFindByExamYearAndExamSeries" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.002"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_withAcademicYearId" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.001"/>
+  <testcase name="testFindExamSeriesListNullIds" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.001"/>
+  <testcase name="testFindExamSeriesListByAcademicId" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.0"/>
+  <testcase name="testFindByExamBoardYearAndSeries" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.002"/>
+  <testcase name="testDeleteId" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.001"/>
+  <testcase name="testFindExamSeriesList" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.001"/>
+  <testcase name="testFindExamSeriesListByExamBoardId" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.exams.basedata.ExamSeriesServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

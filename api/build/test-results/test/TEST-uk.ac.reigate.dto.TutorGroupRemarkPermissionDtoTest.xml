@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:33" hostname="L104D005" time="0.012">
+  <properties/>
+  <testcase name="testMethod_Get_PersonNullSurname" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.006"/>
+  <testcase name="testConstructor_NullStudentYear" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_StudentRemarkPermissionDecription" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.0"/>
+  <testcase name="testMapFromStudentsEntities" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.002"/>
+  <testcase name="testMapFromStudentEntity" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullPersonFirstName" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_FirstName" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_TutorGroupCode" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_Surname" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.0"/>
+  <testcase name="testConstructor_student" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullStudentRemarkPermissionDecription" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullTutorGroupCode" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullStudentRemarkPermission" classname="uk.ac.reigate.dto.TutorGroupRemarkPermissionDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

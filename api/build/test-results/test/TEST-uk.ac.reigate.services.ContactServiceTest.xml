@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.ContactServiceTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:33" hostname="L104D005" time="0.219">
+  <properties/>
+  <testcase name="testCreateFromDto_dtoWithContactTypeId" classname="uk.ac.reigate.services.ContactServiceTest" time="0.17"/>
+  <testcase name="testSaveNewContact" classname="uk.ac.reigate.services.ContactServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dto" classname="uk.ac.reigate.services.ContactServiceTest" time="0.015"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.ContactServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithNullContactId" classname="uk.ac.reigate.services.ContactServiceTest" time="0.006"/>
+  <testcase name="testUpdateFromDto_withNullUpdateContact" classname="uk.ac.reigate.services.ContactServiceTest" time="0.002"/>
+  <testcase name="testCreateFromDto_dtoWithNullIds" classname="uk.ac.reigate.services.ContactServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithContactId" classname="uk.ac.reigate.services.ContactServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_withNullId" classname="uk.ac.reigate.services.ContactServiceTest" time="0.001"/>
+  <testcase name="testSearchByPersonId" classname="uk.ac.reigate.services.ContactServiceTest" time="0.003"/>
+  <testcase name="testUpdateFromDto_dtoNullIds" classname="uk.ac.reigate.services.ContactServiceTest" time="0.002"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.ContactServiceTest" time="0.001"/>
+  <testcase name="testDeleteContactId" classname="uk.ac.reigate.services.ContactServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_withUpdateContact" classname="uk.ac.reigate.services.ContactServiceTest" time="0.003"/>
+  <testcase name="testSaveContacts" classname="uk.ac.reigate.services.ContactServiceTest" time="0.003"/>
+  <testcase name="testSaveContact" classname="uk.ac.reigate.services.ContactServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoNullContact" classname="uk.ac.reigate.services.ContactServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.ContactServiceTest" time="0.002"/>
+  <testcase name="testCreateFromDto_dtoWithPersonId" classname="uk.ac.reigate.services.ContactServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.ContactServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withNullDto" classname="uk.ac.reigate.services.ContactServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

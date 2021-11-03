@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.search.StudentSearchServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:38" hostname="L104D005" time="0.027">
+  <properties/>
+  <testcase name="testSearchByYearSurnameName" classname="uk.ac.reigate.services.search.StudentSearchServiceTest" time="0.024"/>
+  <testcase name="testSearchByYearSurnameFirstNameAndReference" classname="uk.ac.reigate.services.search.StudentSearchServiceTest" time="0.001"/>
+  <testcase name="testSearchByYearSurnameFirstNameOrPreferredNameAndReference" classname="uk.ac.reigate.services.search.StudentSearchServiceTest" time="0.001"/>
+  <testcase name="testSearchByYearCandidateNo" classname="uk.ac.reigate.services.search.StudentSearchServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

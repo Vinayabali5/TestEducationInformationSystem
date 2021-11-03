@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.StudentWorkPlacementServiceTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:38" hostname="L104D005" time="0.054">
+  <properties/>
+  <testcase name="testCreateFromDto_dtoWithStudentId" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.03"/>
+  <testcase name="testFindByStudents" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dto" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.003"/>
+  <testcase name="testUpdateFromDto_dtoWithNullValues" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.002"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.001"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.001"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithWorkPlacementModeId" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.005"/>
+  <testcase name="testCreateFromDto_dto" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithWorkPlacementModeId" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithStudentId" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.002"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.001"/>
+  <testcase name="testFindByStudent" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto_withNullDto" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.001"/>
+  <testcase name="testFindByWorkPlacementTypeId" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_withNullDto" classname="uk.ac.reigate.services.StudentWorkPlacementServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

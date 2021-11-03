@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.risk_assessment.StudentRiskAssessmentDtoTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:32" hostname="L104D005" time="0.015">
+  <properties/>
+  <testcase name="testMapFromStudentRiskAssessmentEntity" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskAssessmentDtoTest" time="0.01"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskAssessmentDtoTest" time="0.001"/>
+  <testcase name="testMapFromStudentRiskAssessmentsEntities" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskAssessmentDtoTest" time="0.002"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskAssessmentDtoTest" time="0.0"/>
+  <testcase name="testConstructor_StudentRiskAssessment" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskAssessmentDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullStudentRiskAssessment" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskAssessmentDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullStudent" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskAssessmentDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

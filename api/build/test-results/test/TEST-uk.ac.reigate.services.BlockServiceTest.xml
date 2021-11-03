@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.BlockServiceTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:33" hostname="L104D005" time="0.022">
+  <properties/>
+  <testcase name="testUpdateFromDto_dto" classname="uk.ac.reigate.services.BlockServiceTest" time="0.012"/>
+  <testcase name="testSaveList" classname="uk.ac.reigate.services.BlockServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_dtoWithNullValues" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dto" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withNullDto" classname="uk.ac.reigate.services.BlockServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_withNullDto" classname="uk.ac.reigate.services.BlockServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

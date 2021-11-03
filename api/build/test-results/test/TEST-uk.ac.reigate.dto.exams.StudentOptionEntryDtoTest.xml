@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.017">
+  <properties/>
+  <testcase name="testMethod_Get_OptionEntryCode" classname="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" time="0.01"/>
+  <testcase name="testMethod_Get_NullStatusTypeDescription" classname="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_StatusTypeDescription" classname="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" time="0.0"/>
+  <testcase name="testConstructor_studentOptionEntry" classname="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_EdiStatusTypeDescription" classname="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" time="0.001"/>
+  <testcase name="testMapFromStudentOptionEntryEntity" classname="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" time="0.002"/>
+  <testcase name="testconstructor_studentOptionEntryDto" classname="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullEdiStatusTypeDescription" classname="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" time="0.0"/>
+  <testcase name="testMapFromStudentComponentsEntities" classname="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" time="0.002"/>
+  <testcase name="testconstructor_NullObject" classname="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_OptionTitle" classname="uk.ac.reigate.dto.exams.StudentOptionEntryDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

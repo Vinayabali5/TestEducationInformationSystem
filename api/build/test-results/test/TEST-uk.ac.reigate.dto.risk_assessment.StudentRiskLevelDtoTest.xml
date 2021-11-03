@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:32" hostname="L104D005" time="0.017">
+  <properties/>
+  <testcase name="testMethod_Get_NullRiskLevelDescription" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.009"/>
+  <testcase name="testMethod_GetStaffRequestingName" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.001"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.0"/>
+  <testcase name="testConstructor_StudentRiskLevel" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_RiskLevelCode" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.001"/>
+  <testcase name="testMapFromStudentRiskLevelsEntities" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.003"/>
+  <testcase name="testMapFromStudentRiskLevelEntity" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullStudentRiskLevel" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_RiskLevelDescription" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullRiskLevelCode" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullStudent" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.0"/>
+  <testcase name="testMethod_NullGetStaffRequestingName" classname="uk.ac.reigate.dto.risk_assessment.StudentRiskLevelDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

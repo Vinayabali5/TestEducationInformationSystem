@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.StudentPrdictedGradeDtoTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:32" hostname="L104D005" time="0.014">
+  <properties/>
+  <testcase name="testConstructor_NullDto" classname="uk.ac.reigate.dto.StudentPrdictedGradeDtoTest" time="0.011"/>
+  <testcase name="testMethod_Get_ExamBoardName" classname="uk.ac.reigate.dto.StudentPrdictedGradeDtoTest" time="0.0"/>
+  <testcase name="testMapFromEntity" classname="uk.ac.reigate.dto.StudentPrdictedGradeDtoTest" time="0.001"/>
+  <testcase name="testConstructorNullObject" classname="uk.ac.reigate.dto.StudentPrdictedGradeDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullExamBoardName" classname="uk.ac.reigate.dto.StudentPrdictedGradeDtoTest" time="0.0"/>
+  <testcase name="testMapFromList" classname="uk.ac.reigate.dto.StudentPrdictedGradeDtoTest" time="0.002"/>
+  <testcase name="testConstructor" classname="uk.ac.reigate.dto.StudentPrdictedGradeDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.AcademicYearSummaryDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:29" hostname="L104D005" time="0.006">
+  <properties/>
+  <testcase name="testMapFromAcademicYearsEntities" classname="uk.ac.reigate.dto.AcademicYearSummaryDtoTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

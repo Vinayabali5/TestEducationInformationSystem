@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.StudentSummaryDtoTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:32" hostname="L104D005" time="0.01">
+  <properties/>
+  <testcase name="testMethod_Get_NullPreviousSchoolName" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.003"/>
+  <testcase name="testConstructor_Student" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.001"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullSpecialCategoryDescription" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.001"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.0"/>
+  <testcase name="testMapFromStudentsEntities" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.002"/>
+  <testcase name="testMapFromStudentEntity" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullSpecialCategoryCode" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_SpecialCategoryDetails" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullSpecialCategoryDetails" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_SpecialCategoryDescription" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_SpecialCategoryCode" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_PreviousSchoolName" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.001"/>
+  <testcase name="testConstructor_NullStudent" classname="uk.ac.reigate.dto.StudentSummaryDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

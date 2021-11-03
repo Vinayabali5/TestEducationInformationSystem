@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.PeriodDtoTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:32" hostname="L104D005" time="0.011">
+  <properties/>
+  <testcase name="testMapFromPeriodEntityTest" classname="uk.ac.reigate.dto.PeriodDtoTest" time="0.006"/>
+  <testcase name="testMapFromPeriodsEntitiesTest" classname="uk.ac.reigate.dto.PeriodDtoTest" time="0.002"/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.PeriodDtoTest" time="0.001"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.PeriodDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.PeriodDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.PeriodDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_BlockDescription" classname="uk.ac.reigate.dto.PeriodDtoTest" time="0.0"/>
+  <testcase name="testConstructor_Period" classname="uk.ac.reigate.dto.PeriodDtoTest" time="0.001"/>
+  <testcase name="testConstructorNullPeriod" classname="uk.ac.reigate.dto.PeriodDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullBlockDescription" classname="uk.ac.reigate.dto.PeriodDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

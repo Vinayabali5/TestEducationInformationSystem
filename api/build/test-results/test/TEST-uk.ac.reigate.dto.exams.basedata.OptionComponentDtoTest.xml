@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.exams.basedata.OptionComponentDtoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.009">
+  <properties/>
+  <testcase name="testMapFromOptionComponentEntities" classname="uk.ac.reigate.dto.exams.basedata.OptionComponentDtoTest" time="0.008"/>
+  <testcase name="testconstructor_optionComponentDto" classname="uk.ac.reigate.dto.exams.basedata.OptionComponentDtoTest" time="0.0"/>
+  <testcase name="testConstructor_optionComponent" classname="uk.ac.reigate.dto.exams.basedata.OptionComponentDtoTest" time="0.0"/>
+  <testcase name="testMapFromOptionComponentEntity" classname="uk.ac.reigate.dto.exams.basedata.OptionComponentDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

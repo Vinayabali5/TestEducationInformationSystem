@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.LearningSupportCostDtoTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.015">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.LearningSupportCostDtoTest" time="0.008"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.LearningSupportCostDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.LearningSupportCostDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.LearningSupportCostDtoTest" time="0.001"/>
+  <testcase name="testMapFromLearningSupportCostEntity" classname="uk.ac.reigate.dto.LearningSupportCostDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullCollegeFundPaid" classname="uk.ac.reigate.dto.LearningSupportCostDtoTest" time="0.001"/>
+  <testcase name="testMapFromLearningSupportCostsEntities" classname="uk.ac.reigate.dto.LearningSupportCostDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_StaffInitials" classname="uk.ac.reigate.dto.LearningSupportCostDtoTest" time="0.0"/>
+  <testcase name="testConstructor_LearningSupportCost" classname="uk.ac.reigate.dto.LearningSupportCostDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullStaffInitials" classname="uk.ac.reigate.dto.LearningSupportCostDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullStudent" classname="uk.ac.reigate.dto.LearningSupportCostDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

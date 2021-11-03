@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.TutorGroupServiceTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:38" hostname="L104D005" time="0.041">
+  <properties/>
+  <testcase name="testFindByAssociateDirectorOfLearning" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.011"/>
+  <testcase name="testCreateFromDto_dtoWithSeniorTutorId" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.002"/>
+  <testcase name="testFindByDirectorOfLearning" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithTutorId" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.002"/>
+  <testcase name="testCreateFromDto_dtoWithRoomId" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithFacultyId" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_dto" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testSaveList" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_dtoWithNullValues" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testFindBySeniorTutor" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testFindByHeadOfFaculty" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithTutorId" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testFindByTutor" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dto" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithRoomId" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.002"/>
+  <testcase name="testGetValidTutorGroups" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.0"/>
+  <testcase name="testFindByAssoicatePastoralDirector" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithSeniorTutorId" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.002"/>
+  <testcase name="testFindByPastoralDirector" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithFacultyId" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_withNullDto" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_withNullDto" classname="uk.ac.reigate.services.TutorGroupServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

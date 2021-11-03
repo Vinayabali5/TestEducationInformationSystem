@@ -1,0 +1,3 @@
+<select id="{{ id }}" class="{{class}}" ng-disabled="readonly" ng-model="ngmodelvar" ng-options="i as i.description for i in ctrl.attendanceCodes track by i.id" ng-on-change="ngChange()" ng-required="ngRequired">
+    <option value="" alt-null-text="altNullText">{{ altNullText }}</option>
+</select>

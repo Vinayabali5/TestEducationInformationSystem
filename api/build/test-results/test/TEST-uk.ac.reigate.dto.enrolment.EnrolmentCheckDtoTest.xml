@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.enrolment.EnrolmentCheckDtoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:30" hostname="L104D005" time="0.008">
+  <properties/>
+  <testcase name="testConstructor_EnrolmentCheckDto" classname="uk.ac.reigate.dto.enrolment.EnrolmentCheckDtoTest" time="0.004"/>
+  <testcase name="testNoArgsConstructor" classname="uk.ac.reigate.dto.enrolment.EnrolmentCheckDtoTest" time="0.004"/>
+  <testcase name="testConstructor_EnrolmentCheckResultsDto" classname="uk.ac.reigate.dto.enrolment.EnrolmentCheckDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

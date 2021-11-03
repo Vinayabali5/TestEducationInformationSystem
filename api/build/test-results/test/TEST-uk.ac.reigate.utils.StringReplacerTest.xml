@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.utils.StringReplacerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:39" hostname="L104D005" time="0.012">
+  <properties/>
+  <testcase name="testReplaceStudentWithNullText" classname="uk.ac.reigate.utils.StringReplacerTest" time="0.006"/>
+  <testcase name="testReplacePersonGenderPrefixes" classname="uk.ac.reigate.utils.StringReplacerTest" time="0.005"/>
+  <testcase name="testReplacePersonWithNullPerson" classname="uk.ac.reigate.utils.StringReplacerTest" time="0.0"/>
+  <testcase name="testReplaceStudentWithNullStudent" classname="uk.ac.reigate.utils.StringReplacerTest" time="0.0"/>
+  <testcase name="testReplace" classname="uk.ac.reigate.utils.StringReplacerTest" time="0.0"/>
+  <testcase name="testReplaceStudentGenderPrefixes" classname="uk.ac.reigate.utils.StringReplacerTest" time="0.001"/>
+  <testcase name="testReplaceStudentWithFirstOrPreferredName" classname="uk.ac.reigate.utils.StringReplacerTest" time="0.0"/>
+  <testcase name="testReplacePersonWithFirstOrPreferredName" classname="uk.ac.reigate.utils.StringReplacerTest" time="0.0"/>
+  <testcase name="testReplacePersonWithNullText" classname="uk.ac.reigate.utils.StringReplacerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

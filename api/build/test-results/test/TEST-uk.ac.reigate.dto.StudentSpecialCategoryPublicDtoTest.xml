@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:32" hostname="L104D005" time="0.01">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" time="0.006"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullStudentSpecialCategory" classname="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullSpecialCategory" classname="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullSpecialCategoryCode" classname="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_SpecialCategoryCode" classname="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" time="0.0"/>
+  <testcase name="testConstructor_StudentSpecialCategory" classname="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" time="0.0"/>
+  <testcase name="testMapFromStudentSpecialCategorysEntities" classname="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" time="0.001"/>
+  <testcase name="testMapFromStudentSpecialCategoryEntity" classname="uk.ac.reigate.dto.StudentSpecialCategoryPublicDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

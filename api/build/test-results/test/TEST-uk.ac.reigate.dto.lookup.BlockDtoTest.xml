@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.lookup.BlockDtoTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.005">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.lookup.BlockDtoTest" time="0.002"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.lookup.BlockDtoTest" time="0.0"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.lookup.BlockDtoTest" time="0.0"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.lookup.BlockDtoTest" time="0.0"/>
+  <testcase name="testMapFromBlocksEntities" classname="uk.ac.reigate.dto.lookup.BlockDtoTest" time="0.002"/>
+  <testcase name="testMapFromBlockEntity" classname="uk.ac.reigate.dto.lookup.BlockDtoTest" time="0.001"/>
+  <testcase name="testConstructor_Block" classname="uk.ac.reigate.dto.lookup.BlockDtoTest" time="0.0"/>
+  <testcase name="testConstructor_block" classname="uk.ac.reigate.dto.lookup.BlockDtoTest" time="0.0"/>
+  <testcase name="testConstructor_nullObject" classname="uk.ac.reigate.dto.lookup.BlockDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

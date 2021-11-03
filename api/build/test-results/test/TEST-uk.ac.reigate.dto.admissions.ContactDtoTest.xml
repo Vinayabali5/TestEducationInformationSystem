@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.admissions.ContactDtoTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:29" hostname="L104D005" time="0.048">
+  <properties/>
+  <testcase name="testMethod_Get_ContactTypeDescription" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.028"/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.003"/>
+  <testcase name="testConstructor_NullPerson" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.0"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullContactTypeDescription" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.004"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.004"/>
+  <testcase name="testMethod_Get_NullContactTitleDescription" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.001"/>
+  <testcase name="testConstructor_contact" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_GenderCode" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.001"/>
+  <testcase name="testMapFromContactsEntities" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.001"/>
+  <testcase name="testConstructor_NullContact" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullGenderCode" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.0"/>
+  <testcase name="testMapFromContactEntity" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_TitleDescription" classname="uk.ac.reigate.dto.admissions.ContactDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

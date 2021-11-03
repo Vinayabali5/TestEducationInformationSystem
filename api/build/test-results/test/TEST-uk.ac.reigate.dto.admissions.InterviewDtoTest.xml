@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.admissions.InterviewDtoTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:30" hostname="L104D005" time="0.026">
+  <properties/>
+  <testcase name="testConstructor_NullDto" classname="uk.ac.reigate.dto.admissions.InterviewDtoTest" time="0.013"/>
+  <testcase name="testConstructor_interviewDto" classname="uk.ac.reigate.dto.admissions.InterviewDtoTest" time="0.008"/>
+  <testcase name="testMethod_Get_NullOfferTypeDescription" classname="uk.ac.reigate.dto.admissions.InterviewDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_OfferTypeDescription" classname="uk.ac.reigate.dto.admissions.InterviewDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_StudentTypeDescription" classname="uk.ac.reigate.dto.admissions.InterviewDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_NullStudentTypeDescription" classname="uk.ac.reigate.dto.admissions.InterviewDtoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

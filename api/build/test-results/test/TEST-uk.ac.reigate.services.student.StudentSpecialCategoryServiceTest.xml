@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:38" hostname="L104D005" time="0.041">
+  <properties/>
+  <testcase name="testCreateFromDto_dtoWithStudentId" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.016"/>
+  <testcase name="testCreateFromDto_dtoWithStaffConcernedId" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithStaffConcernedId" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_dtoWithRiskAssessmentRaisedById" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithSpecialCategoryId" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.004"/>
+  <testcase name="testCreateFromDto_dtoWithriskAssessmentRaisedById" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithRiskAssessmentToBeCompletedById" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testSaveList" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.003"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.0"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testGetByStudent" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithRiskAssessmentToBeCompletedId" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testSaveStudentSpecialCategory" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto_dto" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithStaffRequestingId" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithStudentId" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithSpecialCategoryId" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoWithRiskAssessmentCarriedOutById" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoWithRiskAssessmentCarriedOutById" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto_withNullDto" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_withNullDto" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.0"/>
+  <testcase name="testUpdateFromDto_dtoWithstaffRequestingId" classname="uk.ac.reigate.services.student.StudentSpecialCategoryServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

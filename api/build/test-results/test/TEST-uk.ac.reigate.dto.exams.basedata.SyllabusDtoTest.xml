@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.exams.basedata.SyllabusDtoTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.02">
+  <properties/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.exams.basedata.SyllabusDtoTest" time="0.015"/>
+  <testcase name="testEquals_Different" classname="uk.ac.reigate.dto.exams.basedata.SyllabusDtoTest" time="0.001"/>
+  <testcase name="testHashCode_Same" classname="uk.ac.reigate.dto.exams.basedata.SyllabusDtoTest" time="0.001"/>
+  <testcase name="testEquals_Same" classname="uk.ac.reigate.dto.exams.basedata.SyllabusDtoTest" time="0.0"/>
+  <testcase name="testConstructor_NullExamSeries" classname="uk.ac.reigate.dto.exams.basedata.SyllabusDtoTest" time="0.0"/>
+  <testcase name="testMapFromSyllabussEntities" classname="uk.ac.reigate.dto.exams.basedata.SyllabusDtoTest" time="0.002"/>
+  <testcase name="testMapFromSyllabusEntity" classname="uk.ac.reigate.dto.exams.basedata.SyllabusDtoTest" time="0.0"/>
+  <testcase name="testConstructor_Syllabus" classname="uk.ac.reigate.dto.exams.basedata.SyllabusDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

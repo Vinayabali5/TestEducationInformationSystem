@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:31" hostname="L104D005" time="0.051">
+  <properties/>
+  <testcase name="testMethod_Get_ExamRoomRoomCode" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.029"/>
+  <testcase name="testConstructor_Student" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.0"/>
+  <testcase name="testConstructor_Concession" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.012"/>
+  <testcase name="testConstructorNullRow" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_ExamRoomRoomDescription" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.002"/>
+  <testcase name="testMethod_Get_FirstName" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.0"/>
+  <testcase name="testMapFromEntity" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_ExamComponentCode" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_ExamComponentTitle" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.0"/>
+  <testcase name="testMethod_Get_NullExamRoomRoomCode" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.001"/>
+  <testcase name="testMethod_Get_Surname" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.0"/>
+  <testcase name="testConstructorStudentYear" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.001"/>
+  <testcase name="testMapFromList" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.002"/>
+  <testcase name="testConstructor" classname="uk.ac.reigate.dto.exams.seatingplan.ExamSeatDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

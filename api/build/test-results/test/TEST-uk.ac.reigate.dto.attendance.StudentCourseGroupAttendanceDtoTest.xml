@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.dto.attendance.StudentCourseGroupAttendanceDtoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:30" hostname="L104D005" time="0.026">
+  <properties/>
+  <testcase name="testMapFromStudentCourseGroupAttendancesEntities" classname="uk.ac.reigate.dto.attendance.StudentCourseGroupAttendanceDtoTest" time="0.024"/>
+  <testcase name="testHashCode_Different" classname="uk.ac.reigate.dto.attendance.StudentCourseGroupAttendanceDtoTest" time="0.001"/>
+  <testcase name="testConstructor_studentCourseGroupAttendance" classname="uk.ac.reigate.dto.attendance.StudentCourseGroupAttendanceDtoTest" time="0.001"/>
+  <testcase name="testMapFromStudentCourseGroupAttendanceEntity" classname="uk.ac.reigate.dto.attendance.StudentCourseGroupAttendanceDtoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

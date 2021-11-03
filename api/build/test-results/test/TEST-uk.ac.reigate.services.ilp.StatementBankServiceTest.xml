@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.reigate.services.ilp.StatementBankServiceTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-09-22T11:31:36" hostname="L104D005" time="0.033">
+  <properties/>
+  <testcase name="testFindByILPStatementBankType" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.016"/>
+  <testcase name="testSaveStatementBanks" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.002"/>
+  <testcase name="testUpdateFromDto_dto" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.002"/>
+  <testcase name="testFindAll" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.0"/>
+  <testcase name="testSave" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.001"/>
+  <testcase name="testCreateFromDto_dtoILPStatementBankTypeId" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.004"/>
+  <testcase name="testSaveStatementBank" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.001"/>
+  <testcase name="testFindById" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.001"/>
+  <testcase name="testupdateFromDto_withNullDto" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.0"/>
+  <testcase name="testSaveStatementBankByFields" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto_dto" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.001"/>
+  <testcase name="testUpdateFromDto_dtoILPStatementBankTypeId" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.001"/>
+  <testcase name="testFindUseForMassLetters" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.001"/>
+  <testcase name="testServiceNoArgsConstructor" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.0"/>
+  <testcase name="testCreateFromDto_withNullDto" classname="uk.ac.reigate.services.ilp.StatementBankServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
