@@ -1,8 +1,0 @@
-apiUrl: http://localhost:9001
-
-reportUrl: http://reports.reigate.ac.uk/ReportServer
-studentImagesUrl: http://webapps.reigate.ac.uk/imgs/students/
-debugMode: true
-
-profile: dev
-location: rc
